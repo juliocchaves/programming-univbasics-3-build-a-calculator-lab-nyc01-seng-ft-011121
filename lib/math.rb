@@ -5,18 +5,18 @@ end
 addition(5, 4)
 
 def subtraction(num1, num2)
-  num2 - num1
+  num1 - num2
   subtraction
 end
 
 subtraction(10, 5)
 
 def division(num1, num2)
-  num2 / num1
+  num1 / num2
   division
 end
 
-division(2, 8)
+division(8, 2)
 
 def multiplication(num1, num2)
   num1 * num2
